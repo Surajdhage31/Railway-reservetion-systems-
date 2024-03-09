@@ -2,6 +2,7 @@ package Reservations;
 import java.util.Scanner;
 public class Journey {
 	public int city () {
+		
 		System.out.println(" 1.pune_to_mumbai");
 	    System.out.println("2.mumbai_to_pune");
 		  Scanner a = new Scanner(System.in);
